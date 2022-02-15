@@ -3,7 +3,7 @@
 ## YouTube:
 
 ### Part3: 
-In this video, we implement the RestTemplate and OpenFeign with Eureka Client & Server.
+In this video, we implement the API Gateway with Eureka server and OpenFeign.
 
 [![Microservice Architecture Spring Boot Full Course Part 3](https://img.youtube.com/vi/zQDl215pXMk/0.jpg)](https://www.youtube.com/watch?v=zQDl215pXMk)
 
